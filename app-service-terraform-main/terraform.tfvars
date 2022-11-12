@@ -1,0 +1,8 @@
+location            = "us east"
+environment         = "dev"
+owner               = "Subodh Ukarde"
+description         = "Linux Docker container app"
+app_name            = "ecommerce app"
+app_port            = "8080"
+docker_image        = "nopcommerceteam/nopcommerce"
+docker_image_tag    = "latest"
