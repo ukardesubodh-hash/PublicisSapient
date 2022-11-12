@@ -1,6 +1,6 @@
 # Create a Resource Group
 resource "azurerm_resource_group" "appservice-rg" {
-  name = "${var.app_name}-${var.environment}_AppService-rg"
+  name = var.rggroup
   location = var.location
  
   tags = {

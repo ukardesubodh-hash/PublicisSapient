@@ -1,0 +1,54 @@
+Infosys
+
+
+8.8 years 
+
+3-4 support project
+
+cloud by self
+
+archictect associate
+
+azure 
+
+new app on prem  azure ..
+
+
+2 years migration engineer
+
+no access from portal
+
+ARm template deploy
+
+prod with client --
+
+prev azure -- devops side 
+
+create resources in azure 
+
+application hosted vms
+
+java .net python applications deployment --no exp
+
+Strengths
+GIT
+Branching Strategy
+ARm deployments . infra deployment
+create vnet and subnet
+Rolback - not encountered
+
+azure cloud- AD, Key vault st acc, vnet ,subnet ,nsg rules ..private endpoints Application gateway,
+Application gateway
+branching strategy --- 
+
+Difference between app gateways and loadbalancer
+
+App Services ..Azure functions
+
+monitoring tools -- azure monitor
+
+
+
+
+
+

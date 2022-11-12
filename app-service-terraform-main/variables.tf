@@ -31,6 +31,12 @@ variable "location" {
   default     = "canadacentral"
 }
 
+variable "rggroup" {
+  type        = string
+  description = "Azure region where the resource group will be created"
+  default     = "SubodhInterview"
+}
+
 variable "owner" {
   type        = string
   description = "Specify the owner of the resource"
